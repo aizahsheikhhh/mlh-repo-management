@@ -16,3 +16,5 @@ This repository is for managing a school extracurricular activities website.
 ## Security
 - Keep code clean and safe
 - Report any issues immediately
+## Codespaces Update
+This edit was made using GitHub Codespaces.
